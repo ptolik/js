@@ -1,0 +1,9 @@
+{
+   "indent": 2,
+   "undef": true,
+   "trailing": true,
+   "curly": true,
+   "strict": false,
+   "browser": true,
+   "jquery": true
+}
